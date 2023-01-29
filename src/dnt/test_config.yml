@@ -57,5 +57,6 @@ jobs:
       - console
 
 custom_modules:
-  # - F:\datamining\data-notification-tool\src\modules\
-  - ./tests/another_dummy_project/modules
+  - F:\datamining\data-notification-tool\src\modules\
+  #- ../modules/
+
